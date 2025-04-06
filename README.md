@@ -4,8 +4,6 @@ Sou um entusiasta de ciência, análise e engenharia de dados, apaixonado por tr
 
 ## 🚀 Projetos em Destaque
 
-- [**Projeto Previsão de Imóveis**](https://github.com/joaorange/Projeto-Previsao-de-Imoveis): Utilizei Python e Jupyter Notebook para analisar e prever preços de imóveis com base em diversos fatores.
-
 - [**House Rocket Project**](https://github.com/joaorange/house-rocket-project): Projeto focado em análise de dados imobiliários para identificar as melhores oportunidades de compra e venda de propriedades.
 
 - [**Rossmann Sales Prediction Project**](https://github.com/joaorange/rossmann-sales-prediction-project): Modelo preditivo feito em XGBOOST para estimar as vendas de uma rede de drogarias, auxiliando na tomada de decisões estratégicas.
