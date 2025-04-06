@@ -8,7 +8,7 @@ Sou um entusiasta de ciência, análise e engenharia de dados, apaixonado por tr
 
 - [**Rossmann Sales Prediction Project**](https://github.com/joaorange/rossmann-sales-prediction-project): Modelo preditivo feito em XGBOOST para estimar as vendas de uma rede de drogarias, auxiliando na tomada de decisões estratégicas.
 
-- [**KS Project**](https://github.com/joaorange/ks-project): Interface visual com Python e Tkinder para analisar a estatística KS (Kolmogorov-Smirnov) de forma simples e rápida.
+- [**KS Project**](https://github.com/joaorange/plotador-de-ks): Interface visual com Python e Tkinder para analisar a estatística KS (Kolmogorov-Smirnov) de forma simples e rápida.
 
 ## 🛠️ Habilidades Técnicas
 
